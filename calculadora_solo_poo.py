@@ -19,3 +19,6 @@ class Calculadora():
     def dividir(self, num1, num2):
         self.resultado = num1 / num2
         return self.resultado
+
+calculadora = Calculadora()
+print(calculadora.sumar(15985949, 18954654))
