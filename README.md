@@ -8,4 +8,4 @@ Tecnologías usadas:
 - python
 - Tkinter
 
-![alt text](https://github.com/Ninewinger/music_player_with_fetch/blob/master/public/calc.bpm?raw=true)
+![alt text](https://github.com/Ninewinger/calculadora/blob/master/public/calc.bpm?raw=true)
