@@ -1,6 +1,5 @@
 from tkinter import Button,Tk, Frame, Entry, END
 
-from matplotlib.ft2font import BOLD
 
 ventana = Tk()
 ventana.title("Calculadora")
